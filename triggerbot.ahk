@@ -26,7 +26,7 @@ key_hold	:=	"LALT" 	; key that you hold to scan (example "T")
 ;SETTINGS
 pixel_box	:=	4		; Keep between min 3 and max 8		
 pixel_sens	:=	50	; higher/lower = more/less color sensitive 		
-pixel_color	:=	0xFEFE40	; yellow="0xFEFE40", purple="0xA145A3"
+pixel_color	:=	FF0000	; yellow="0xFEFE40", purple="0xA145A3"
 tap_time	:=	200		; Delay in ms between shots when triggered
 
 ;DO NOT TOUCH?
